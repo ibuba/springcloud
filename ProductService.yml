@@ -14,5 +14,4 @@ spring:
   data:
     mongodb:
          database:  SA-Project-Product
-  application:
-    name: productService
+  
